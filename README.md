@@ -1,6 +1,6 @@
 # Neural Network Training Lab
 
-[Русская версия README](README_RU.md)
+Russian version: [README_RU.md](README_RU.md).
 
 Project 6 of 13 in the educational neural-network simulator series.
 A single-file Python and Tkinter application: standard library only, no
