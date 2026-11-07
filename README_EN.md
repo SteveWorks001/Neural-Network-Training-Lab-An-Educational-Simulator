@@ -743,12 +743,6 @@ matter are listed below.
 | 9 — Classification | the 0.5 threshold and the correct-answer counter are plumbing here; there they are the subject |
 | 11 — Optimizers | plain sequential descent here; there the same update with momentum and adaptive rates |
 
-One discrepancy worth knowing about: the file's own header text
-(`neural_network_training_lab.py`, lines 3–6) describes the series as
-six projects long and calls this one "the last". That is the program's internal
-docstring, not documentation; the README numbers follow the full series of 13
-applications. The source file was not modified as part of this documentation
-work.
 
 ## License
 
